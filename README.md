@@ -2,7 +2,8 @@
 
 ## Goals of data analysis:  
 
-``` Lending loans to ‘risky’ applicants is the largest source of financial loss
+``` 
+Lending loans to ‘risky’ applicants is the largest source of financial loss
 (called credit loss). The credit loss is the amount of money lost by the lender 
 when the borrower refusesto pay or runs away with the money owed.  
 
